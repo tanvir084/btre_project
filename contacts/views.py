@@ -34,7 +34,7 @@ def contact(request):
     #   'Property Listing Inquiry',
     #   'There has been an inquiry for ' + listing + ' . Sign into the admin panel for more info',
     #   'tanvir.rasel.1998@gmail.com',
-    #   [realtor_email, 'rasel@algosolver.com'],
+    #   [realtor_email],
     #   fail_silently=False
     # )
 
